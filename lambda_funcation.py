@@ -2,7 +2,7 @@ from concurrent.interpreters import list_all
 add=lambda a,b:a+b                                     #addition use lambda
 print(add(70,30))
 
-Multiplication=lambda m:m*3                            #Multiplication use lambda
+Multiplication=lambda m:m* 3                            #Multiplication use lambda
 print(Multiplication(3))
 
 a=int(input("enter first number : "))
